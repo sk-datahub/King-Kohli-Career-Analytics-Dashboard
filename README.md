@@ -1,5 +1,5 @@
 # 🏏 Virat Kohli Career Analytics Dashboard (Power BI)
-
+![Dashboard Preview](dashboard.png)
 ## 📊 Project Overview
 This project is an interactive Power BI dashboard analyzing the career performance of Virat Kohli across different formats.
 
